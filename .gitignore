@@ -6,3 +6,4 @@
 /Examen/*.csv
 /Examen/*.csv.zip
 /Examen/data/
+**/data/
