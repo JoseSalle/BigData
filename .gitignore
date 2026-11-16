@@ -7,3 +7,6 @@
 /Examen/*.csv.zip
 /Examen/data/
 **/data/
+
+# Entornos virtuales de Python
+.venv/
